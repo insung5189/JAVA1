@@ -1,3 +1,4 @@
+// 프로그래머스 자바 입문코드 필드(field)선언 - 실습
 // Song.java 코드를 실행하기 위한 코드입니다. 이 코드는 수정하지 마세요.
 public class SongExam {
     public static void main(String[] args) {
